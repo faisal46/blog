@@ -3,6 +3,8 @@
 body{font-family: 'Source Sans Pro', sans-serif;font-size:14px;line-height:18px;color:#000;background:url(images/bg.png)repeat fixed 0 0 #fff;}
 /* Database query success msg
 ----------------------------------------------- */
+
+
 .success{font-size:18px; color:green;}
 .error{font-size:18px; color:red;}
 /* Database query success msg end
