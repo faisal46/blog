@@ -1,0 +1,33 @@
+.headersection {
+    background: red none repeat scroll 0 0;
+    color: #fff;
+}
+.icon a {
+    background: #CA932F none repeat scroll 
+    }
+    .searchbtn input[type="text"] {
+    border: 1px solid #008088;
+    background: #CA932F;}
+    input[type="submit"] {
+    background: #CA932F repeat scroll 0 0;
+    border: 1px solid #007FED;}
+    .searchbtn input[type="submit"] {
+    border: 1px solid #007FED;}
+    .navsection {
+    background: none repeat scroll 0 0 #CA932F;
+}
+.navsection ul li a:hover, #active {
+    background: #CA932F;
+    }
+    .navsection ul li {
+    border-right: 1px solid #ffff;}
+    .footersection {
+    height: 90px;
+    background: #CA932F;}
+    .samesidebar h2 {
+    background: #CA932F none repeat scroll 0 0;
+    border-bottom: 2px solid #007FEE;}
+    .maincontent {
+    background: #CA932F none repeat scroll 0 0;}
+    .samepost h2 a {
+    color: #fff;}
